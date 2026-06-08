@@ -61,7 +61,7 @@ def create_agent():
 
 def print_welcome() -> None:
     print("=" * 60)
-    print("  🤖 Агент с RAG-памятью (Qdrant + Ollama)")
+    print("  🤖 Агент с RAG-памятью (ChromaDB + Ollama)")
     print("=" * 60)
     print()
     print("Команды:")
